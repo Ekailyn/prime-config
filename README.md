@@ -1,2 +1,1 @@
-config
 EKAILYN-2026-PRIME
